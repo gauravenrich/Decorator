@@ -1,4 +1,4 @@
-package com.gaurav.adaptor;
+package com.gaurav.adaptor.fly;
 
 public class Client {
     public static void main(String[] args) {

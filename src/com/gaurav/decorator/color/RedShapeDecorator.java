@@ -1,4 +1,4 @@
-package com.gaurav.color.decorator;
+package com.gaurav.decorator.color;
 
 public class RedShapeDecorator extends ShapeDecorator{
 

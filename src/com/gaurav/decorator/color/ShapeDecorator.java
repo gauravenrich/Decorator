@@ -1,4 +1,4 @@
-package com.gaurav.color.decorator;
+package com.gaurav.decorator.color;
 
 public abstract class ShapeDecorator implements Shape{
     protected Shape decoratedShape;

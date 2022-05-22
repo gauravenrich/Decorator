@@ -1,4 +1,4 @@
-package com.gaurav.bird.adaptor;
+package com.gaurav.adaptor.bird;
 
 public class MainProgram {
     public static void main(String[] args) {

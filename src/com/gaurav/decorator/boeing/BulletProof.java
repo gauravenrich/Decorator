@@ -1,4 +1,4 @@
-package com.gaurav.decorator;
+package com.gaurav.decorator.boeing;
 
 public class BulletProof extends BoeingDecorator{
     IAircraft boeing;

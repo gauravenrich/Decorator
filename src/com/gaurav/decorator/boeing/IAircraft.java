@@ -1,4 +1,4 @@
-package com.gaurav.decorator;
+package com.gaurav.decorator.boeing;
 
 public interface IAircraft {
     float baseWeight = 100;

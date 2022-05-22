@@ -1,4 +1,4 @@
-package com.gaurav.adaptor;
+package com.gaurav.adaptor.fly;
 
 public class HotAirBalloon {
     String  gasUsed="Helium";

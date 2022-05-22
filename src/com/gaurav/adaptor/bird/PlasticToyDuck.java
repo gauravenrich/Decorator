@@ -1,4 +1,4 @@
-package com.gaurav.bird.adaptor;
+package com.gaurav.adaptor.bird;
 
 public class PlasticToyDuck implements ToyDuck{
     @Override
