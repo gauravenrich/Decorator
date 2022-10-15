@@ -5,7 +5,9 @@ public class StockMain {
         StockGrabber stockGrabber=new StockGrabber();
         Observer observer1=new StockObserver(stockGrabber);
         observer1.updatePrice(100,0,90);
-        Observer observer2=new StockObserver(stockGrabber);
-        observer2.updatePrice(1200,700,290);
+        System.out.println();
+        stockGrabber.setApplPrice(200);
+        System.out.println();
+        stockGrabber.setGooglePrice(130);
     }
 }
